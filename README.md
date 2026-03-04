@@ -56,5 +56,4 @@ mvn test
 - Managing concurrency and thread-safety in Java
 - Designing message routing and filtering logic
 
-## License
-(Add a license file)
+
